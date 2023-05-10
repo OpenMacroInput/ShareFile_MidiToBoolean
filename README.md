@@ -27,10 +27,14 @@ How to publish your files to the community ?
 5. Drag and drop the folder in the project (No tested yet)
 
 Structure for your folder:
-- Community/LASTNAME_FIRSTNAME/Credit.md // Just put some information of who you are and how to contact you if you want to be contact
-- Community/LASTNAME_FIRSTNAME/MPK Mini MK3/OneFileConfigName.miditoboolean // Put your file in a folder that has the device id name for the community to find it easily.
-- Community/LASTNAME_FIRSTNAME/MPK Mini MK3/Secondconfig.miditoboolean // You can put what ever config you want in the folder but keep in mind that we review it before validation.
-- Community/ANONYMOUSD2501/MPK Mini MK3/WhiteKeyLeftRight.miditoboolean // You can use pseudonym instead of name if you want to keep your privacy.
+- `Community/LASTNAME_FIRSTNAME/Credit.md` 
+  - // Just put some information of who you are and how to contact you if you want to be contact
+- `Community/LASTNAME_FIRSTNAME/MPK Mini MK3/OneFileConfigName.miditoboolean` 
+  - // Put your file in a folder that has the device id name for the community to find it easily.
+- `Community/LASTNAME_FIRSTNAME/MPK Mini MK3/Secondconfig.miditoboolean` 
+  - // You can put what ever config you want in the folder but keep in mind that we review it before validation.
+- `Community/ANONYMOUSD2501/MPK Mini MK3/WhiteKeyLeftRight.miditoboolean` 
+  - // You can use pseudonym instead of name if you want to keep your privacy.
 
 
 
